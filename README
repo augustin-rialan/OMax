@@ -1,1 +1,1 @@
-
+This project has for purpose to use the Open Data from www.sncf.com to optimize the use of the student subscription TGVMax. It print a map with all the possible destinations for a week-end travel. For that we use PHP and MySql to get the the data of all the TGV Max trains over a period of time. 
